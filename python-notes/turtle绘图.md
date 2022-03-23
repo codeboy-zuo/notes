@@ -17,7 +17,7 @@ turtle.backward(distance)  	# 当前画笔反方向移动distance像素长度
 
 turtle.right(degree)	# 顺时针移动degree°
 
-turtle.left(degree)		# 逆时针……
+turtle.left(degree)	# 逆时针……
 
 turtle.circle(100)# 画圆，半径为正(负),画笔左边(右))画圆 。参数r、弧度、内切多边形边数(steps)
 
@@ -48,7 +48,7 @@ turtle.delay(delay=None)	# 设置或返回以ms为单位的延迟
 
 turtle.hideturtle()		# 隐藏画笔  ，showturtle()显示画笔
 
-turtle.mode(mode=None)# 默认为standard模式：方向东,正角度(逆); logo模式:方向北，角度顺
+turtle.mode(mode=None)  # 默认为standard模式：方向东,正角度(逆); logo模式:方向北，角度顺
 
 
 
