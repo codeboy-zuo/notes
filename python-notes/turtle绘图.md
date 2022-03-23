@@ -1,5 +1,5 @@
 ```
-turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景色
+turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景颜色
 
 turtle.pensize(5)   	   # 设置画笔大小
 
@@ -48,7 +48,7 @@ turtle.delay(delay=None)	# 设置或返回以ms为单位的延迟
 
 turtle.hideturtle()		# 隐藏画笔  ，showturtle()显示画笔
 
-turtle.mode(mode=None)  # 默认为standard模式：方向东,正角度(逆); logo模式:方向北，角度顺
+turtle.mode(mode=None)  # 默认为standard模式：画笔方向向东,正角度为逆时针;  logo模式:方向向北，正角度顺时针
 
 
 
