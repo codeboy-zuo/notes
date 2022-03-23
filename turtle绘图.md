@@ -1,8 +1,8 @@
-turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景色
-turtle.pensize(5)   	      # 设置画笔大小
+turtle.screensize(canvwidth=None, canvheight=None, bg=None) # 参数为画布宽、高、背景色
+turtle.pensize(5)   	    # 设置画笔大小
 turtle.pencolor('red')  	# 设置画笔颜色
 turtle.speed()   		     # 设置画笔移动速度
-turtle.title()		# 设置标题
+turtle.title()	# 设置标题
 
 turtle.forward(distance)  	# 当前画笔方向移动distance像素长度
 turtle.backward(distance)  	# 当前画笔反方向移动distance像素长度
