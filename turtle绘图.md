@@ -1,4 +1,5 @@
 `turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景色`
+
 `turtle.pensize(5)   	      # 设置画笔大小`
 `turtle.pencolor('red')  	# 设置画笔颜色`
 `turtle.speed()   		     # 设置画笔移动速度`
