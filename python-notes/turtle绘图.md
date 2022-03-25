@@ -1,15 +1,15 @@
 ```python
 turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景颜色
 turtle.pensize(5)   	   # 设置画笔大小
-turtle.pencolor('red')   # 设置画笔颜色
+turtle.pencolor('red')     # 设置画笔颜色
 turtle.speed()   	# 设置画笔移动速度
 turtle.title()		# 设置标题
 
 turtle.forward(distance)  	# 当前画笔方向移动distance像素长度
 turtle.backward(distance)  	# 当前画笔反方向移动distance像素长度
 turtle.right(degree)	# 顺时针移动degree°
-turtle.left(degree)	# 逆时针……
-turtle.circle(100)# 画圆，半径为正(负),画笔左边(右))画圆 。参数r、弧度、内切多边形边数(steps)
+turtle.left(degree)		# 逆时针……
+turtle.circle(100)		# 画圆，半径为正(负),画笔左边(右))画圆 。参数r、弧度、内切多边形边数(steps)
 turtle.circle(50,180)	# 半圆
 turtle.circle(50,steps=4)	#  半径为50的圆内切四边形(正方形)
 
@@ -34,6 +34,4 @@ setheading(angle)	# 设置当前朝向为angle角度
 
 turtle.done()
 turtle.mainloop()	# 启动事件循环
-
 ```
-
