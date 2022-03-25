@@ -1,7 +1,7 @@
 ```python
 turtle.screensize(canvwidth=None, canvheight=None, bg=None)   # 参数为画布宽、高、背景颜色
 turtle.pensize(5)   	   # 设置画笔大小
-turtle.pencolor('red')  	# 设置画笔颜色
+turtle.pencolor('red')   # 设置画笔颜色
 turtle.speed()   	# 设置画笔移动速度
 turtle.title()		# 设置标题
 
