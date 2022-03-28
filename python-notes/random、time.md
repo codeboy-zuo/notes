@@ -39,5 +39,5 @@ print('所花费时间为：%d 秒' % (end_time - start_time))
 time.sleep(2)	# 等待2s
 time.asctime()	# 获取系统时间	Mon Mar 28 23:02:59 2022
 time.localtime()		
-# 获取当前时间time.struct_time(tm_year=2022, tm_mon=3, tm_mday=28, tm_hour=22, tm_min=59, tm_sec=10, tm_wday=0, # # #	tm_yday=87, tm_isdst=0)
+# 获取当前时间time.struct_time(tm_year=2022, tm_mon=3, tm_mday=28, tm_hour=22, tm_min=59, tm_sec=10, tm_wday=0, tm_yday=87, tm_isdst=0)
 ```
