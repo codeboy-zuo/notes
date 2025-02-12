@@ -25,7 +25,7 @@
 - iKuuu:<br>
 [.no-mad-world.club/link/]()<br>
 - immtel:<br>
-[https:api.immtel.co/?]()<br>
+[https://api.immtel.co/?]()<br>
 - 墙洞:<br>
 [https://dler.cloud/subscribe/]()<br>
 - 白月光:<br>
