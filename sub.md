@@ -42,13 +42,13 @@
 [.subxiandan.top:9604/v2b/paopaogou/api/v1/client/subscribe?token=]()<br>
 - 红杏云:<br>
 [https://hongxingdl.com/hxvip?token=]()<br>
-- sFcloud:<br>
+- SFcloud:<br>
 [https://szdol.com/search/userid?token=]()<br>
 - LILISI:<br>
 [https://sub.lilisi.me/api/v1/client/subscribe?token=]()<br>
 - WD:<br>
 [https://api.wd-blue.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=]()<br>
-- YkkCloud（可直接看奈飞）:
+- YkkCloud（可直接看奈飞）:<br>
 [https://cloud.ykkk.tech/api/v1/client/subscribe?token=cd505294aa9733fe5c7f859daf6ba510]()<br>
 - 魔戒:<br>
 [https://mojie0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=]()<br>
