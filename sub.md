@@ -11,6 +11,10 @@
 [https://api.flowercloud.xyz/osubscribe.php?]()<br>
 - 渔云（emby）:<br>
 [https://cloudfisher.net/jsk34?token=]()<br>
+- SYN（emby）:<br>
+[https://acl.syyn.pw/api/v1/client/subscribe?token=]()<bdr>
+- FacMata（emby）:<br>
+[https://neo.facal.one/api/v1/client/subscribe?token=]()<br>
 - Bitz+Net:<br>
 [https://let.bnsubservdom.com/api/v1/client/subscribe?]()<br>
 - MESL:<br>
@@ -25,15 +29,15 @@
 - iKuuu:<br>
 [.no-mad-world.club/link/]()<br>
 - immtel:<br>
-[https://api.immtel.co/?]()<br>
+[https:api.immtel.co/?]()<br>
 - 墙洞:<br>
 [https://dler.cloud/subscribe/]()<br>
 - 白月光:<br>
 [.qinyues4.cc/]()<br>
-- FacMata（emby）:<br>
-[https://neo.facal.one/api/v1/client/subscribe?token=]()<br>
 - 可莉:<br>
 [https://sub.kle.jp/api/v1/client/subscribe?token=]()<br>
+- NaiU_Net:<br>
+[https://f211ea5d-716c-49ed-a9bc-6a5895549048.naiunginx.click/api/v1/client/subscribe?token=]()<br>
 - 泡泡Dog:<br>
 [.subxiandan.top:9604/v2b/paopaogou/api/v1/client/subscribe?token=]()<br>
 - 红杏云:<br>
@@ -44,6 +48,8 @@
 [https://sub.lilisi.me/api/v1/client/subscribe?token=]()<br>
 - WD:<br>
 [https://api.wd-blue.com/sub?target=clash&emoji=true&udp=true&scv=true&new_name=true&filename=WD_Trojan&url=]()<br>
+- YkkCloud（可直接看奈飞）:
+[https://cloud.ykkk.tech/api/v1/client/subscribe?token=cd505294aa9733fe5c7f859daf6ba510]()<br>
 - 魔戒:<br>
 [https://mojie0201.xn--8stx8olrwkucjq3b.com/api/v1/client/subscribe?token=]()<br>
 [https://onlysub.mjurl.com/api/v1/client/subscribe?token=]()<br>
@@ -58,34 +64,36 @@
 [https://xn--cp3a08l.com/api/v1/client/subscribe?token=]()<br>
 - EdNovas:<br>
 [https://new.ednovas.dev/api/v1/client/subscribe?token=]()<br>
+- NCloud:<br>
+[https://a4.microazure.org/api/v1/client/subscribe?token=]()<br>
 
 
 ## 转换
-```python
-            'ss' => '?sub=2',
-            'ssr' => '?sub=1',
-            'v2ray' => '?sub=3',
-            'trojan' => '?sub=4',
-            'v2ray_vless' => '?sub=5',
-            // apps
-            'ssa' => '?list=ssa',
-            'ssd' => '?ssd=1',
-            'anxray'=> '?anxray=1',
-            'singbox' => '?singbox=1',
-            'clash' => '?clash=1',
-            'clash_provider' => '?list=clash',
-            'surge' => '?surge=' . $int,
-            'surge_node' => '?list=surge',
-            'surge2' => '?surge=2',
-            'surge3' => '?surge=3',
-            'surge4' => '?surge=4',
-            'surfboard' => '?surfboard=1',
-            'quantumult' => '?quantumult=' . $int,
-            'quantumult_v2' => '?list=quantumult',
-            'quantumult_sub' => '?quantumult=2',
-            'quantumult_conf' => '?quantumult=3',
-            'quantumultx' => '?list=quantumultx',
-            'stash' => '?list=stash',
-            'shadowrocket' => '?list=shadowrocket',
-            'kitsunebi' => '?list=kitsunebi'
+```bash
+'ss' => '?sub=2',
+'ssr' => '?sub=1',
+'v2ray' => '?sub=3',
+'trojan' => '?sub=4',
+'v2ray_vless' => '?sub=5',
+// apps
+'ssa' => '?list=ssa',
+'ssd' => '?ssd=1',
+'anxray'=> '?anxray=1',
+'singbox' => '?singbox=1',
+'clash' => '?clash=1',
+'clash_provider' => '?list=clash',
+'surge' => '?surge=' . $int,
+'surge_node' => '?list=surge',
+'surge2' => '?surge=2',
+'surge3' => '?surge=3',
+'surge4' => '?surge=4',
+'surfboard' => '?surfboard=1',
+'quantumult' => '?quantumult=' . $int,
+'quantumult_v2' => '?list=quantumult',
+'quantumult_sub' => '?quantumult=2',
+'quantumult_conf' => '?quantumult=3',
+'quantumultx' => '?list=quantumultx',
+'stash' => '?list=stash',
+'shadowrocket' => '?list=shadowrocket',
+'kitsunebi' => '?list=kitsunebi'
 ```
