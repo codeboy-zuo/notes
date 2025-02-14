@@ -97,3 +97,6 @@
 'shadowrocket' => '?list=shadowrocket',
 'kitsunebi' => '?list=kitsunebi'
 ```
+
+## 转换细节
+[https://github.com/Artoria2e5/subconverter/blob/f75f6ca340d0a1d2283100742dbcab5db8429708/README-cn.md]()
