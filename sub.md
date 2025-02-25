@@ -4,6 +4,7 @@
 [https://huaikhwang.central-world.org/api/v1/trails/bolster?token=]()<br>
 [https://ratchada.terminal69.win/api/v1/trails/bolster?token=]()<br>
 [https://warehouse.parkson-market.org/api/v1/trails/bolster?token=]()<br>
+[https://villa.parkson-market.org/api/v1/trails/bolster?token=]()<br>
 [https://link.nobodys.uk/api/v1/trails/bolster?token=]()<br>
 - ENET（emby）:<br>
 [https://159.75.130.241/easynet/api/v1/client/subscribe?token=]()<br>
